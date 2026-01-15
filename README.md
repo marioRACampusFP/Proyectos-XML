@@ -1,2 +1,2 @@
-# Proyectos IONIC
-Repositorio para mis ejercicios y proyectos de IONIC en el ciclo.
+# Proyectos Xml
+Repositorio para mis ejercicios y proyectos de xmlen el ciclo.
