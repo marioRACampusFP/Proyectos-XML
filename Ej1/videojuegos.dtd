@@ -1,0 +1,11 @@
+<!ELEMENT inventario (videojuego+)>
+<!ELEMENT videojuego (genero, desarrollador, precio, fecha_lanzamiento, imagen)>
+<!ATTLIST videojuego
+          id CDATA #REQUIRED
+          nombre CDATA #REQUIRED
+          plataforma CDATA #REQUIRED>
+<!ELEMENT genero (#PCDATA)>
+<!ELEMENT desarrollador (#PCDATA)>
+<!ELEMENT precio (#PCDATA)>
+<!ELEMENT fecha_lanzamiento (#PCDATA)>
+<!ELEMENT imagen (#PCDATA)>

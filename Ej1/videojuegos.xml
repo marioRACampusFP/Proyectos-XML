@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="videojuegos.xsl"?>
+
+<!DOCTYPE inventario SYSTEM "file:///C:/Users/CampusFP/Desktop/Desarrollo%20de%20interfaces/Xml/Ej1/videojuegos.dtd">
+
+<inventario>
+    <videojuego id="vj01" nombre="The Legend of Zelda: Tears of the Kingdom" plataforma="Nintendo Switch">
+        <genero>Aventura</genero>
+        <desarrollador>Nintendo</desarrollador>
+        <precio>69.99</precio>
+        <fecha_lanzamiento>2023-05-12</fecha_lanzamiento>
+        <imagen>https://assets.nintendo.com/image/upload/c_fill,w_800/q_auto:best/f_auto/dpr_1.0/ncom/es_LA/games/switch/t/the-legend-of-zelda-tears-of-the-kingdom-switch/hero</imagen>
+    </videojuego>
+
+    <videojuego id="vj02" nombre="Elden Ring" plataforma="PS5">
+        <genero>RPG</genero>
+        <desarrollador>FromSoftware</desarrollador>
+        <precio>59.99</precio>
+        <fecha_lanzamiento>2022-02-25</fecha_lanzamiento>
+        <imagen>https://images.bewitcher.com/elden-ring-logo.jpg</imagen> <!-- URL oficial de Bandai Namco que funciona -->
+    </videojuego>
+
+    <videojuego id="vj03" nombre="Hollow Knight" plataforma="PC">
+        <genero>Metroidvania</genero>
+        <desarrollador>Team Cherry</desarrollador>
+        <precio>14.99</precio>
+        <fecha_lanzamiento>2017-02-24</fecha_lanzamiento>
+        <imagen>https://upload.wikimedia.org/wikipedia/en/6/6e/Hollow_Knight_cover_art.jpg</imagen> <!-- Cover oficial de Wikipedia/Steam, estable -->
+    </videojuego>
+</inventario>
