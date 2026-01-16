@@ -1,2 +1,2 @@
-# Proyectos Xml
-Repositorio para mis ejercicios y proyectos de xmlen el ciclo.
+# XML Projects
+Repository for my xmlen exercises and projects.
